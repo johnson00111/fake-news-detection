@@ -1,6 +1,6 @@
 # 🗞️ Fake News Detection: From EDA to Deep Learning
 
-A Kaggle practice project comparing **9 models** across **Traditional ML**, **Deep Learning**, and **Transformer-based** approaches for binary fake news classification.
+A Kaggle practice project comparing **9 models** across Traditional ML, Deep Learning, and Transformer-based approaches for binary fake news classification.
 
 > 📓 **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/code/johnson00111/ai-termproject-tj/notebook)
 
